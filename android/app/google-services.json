@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684484068636",
+    "project_id": "email-login-20b47",
+    "storage_bucket": "email-login-20b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684484068636:android:9d93b21e47d9b2dda326d9",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684484068636-rknf49go0s75fpgu1ekh0o3hihgn8vgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0B9VQBVwgpgqL-6GvRf_xah9wHCUqP3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684484068636-rknf49go0s75fpgu1ekh0o3hihgn8vgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
